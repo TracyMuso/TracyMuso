@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elfin-git
+- 👀 I’m interested in fullstack development and smart contract development.
+- 🌱 I’m currently learning software developmebt and solidity programming
+- 💞️ I’m  not looking to collaborate at the moment, I'm still a major noob.
+- 📫 How to reach me, 4mtsocials@gmail.com
