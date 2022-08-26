@@ -4,7 +4,8 @@
 - 👋 Hi, I’m Tracy!
 - 🇿🇲 I live in Africa, Zambia
 - 👀 I’m interested in blockchain technology and web development.
-- 🌱 I’m currently learning fullstack development with Microverse and solidity programming on my own.
+- 🌱 I’m a fullstack developer and smart contract developer.
+- :sunglasses: I am a student of Microverse
 - :trollface: Currently looking for a web developer/ Smart contract developer positions. 
 - 🤝 I look forward to collaborations. 
 
