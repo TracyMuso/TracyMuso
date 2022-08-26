@@ -1,12 +1,12 @@
 
 # About me
 
-- 👋 Hi, I’m @elfin-git
+- 👋 Hi, I’m Tracy!
 - 🇿🇲 I live in Africa, Zambia
 - 👀 I’m interested in blockchain technology and web development.
 - 🌱 I’m currently learning fullstack development with Microverse and solidity programming on my own.
-- :trollface: I'm a newbie in programming.. 
-- 🤝  However, I look forward to collaborations. 
+- :trollface: Currently looking for a web developer/ Smart contract developer positions. 
+- 🤝 I look forward to collaborations. 
 
 
 ## Languages
@@ -17,6 +17,11 @@
 - Solidity
 - Ruby
 
+##Frameworks
+- React
+- Truffle
+- Rails
+
 
 ## How to reach me
 
@@ -24,5 +29,5 @@
 
 - GitHub: [@githubhandle](https://github.com/elfin-git)
 - Twitter: [@twitterhandle](https://twitter.com/tracy_muso)
-- LinkedIn: [@LinkedIn](https://linkedin.com/in/tracy-musongole)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/tracy-muso/)
 - Email: [@email](musongoletracy@gmail.com)
