@@ -22,6 +22,7 @@
 - React
 - Truffle
 - Rails
+- Bootstrap
 
 
 ## How to reach me
