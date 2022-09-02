@@ -32,7 +32,7 @@
 - GitHub: [@githubhandle](https://github.com/elfin-git)
 - Twitter: [@twitterhandle](https://twitter.com/tracy_muso)
 - LinkedIn: [@LinkedIn](https://linkedin.com/in/tracy-muso/)
-- Email: [@email](musongoletracy@gmail.com)
+- Email: musongoletracy@gmail.com
 
 ## Check out my pinned projects below :point_down:
 
