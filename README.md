@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 <h3 align="center">A passionate fullstack developer from Zambia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tracymuso&label=Profile%20views&color=0e75b6&style=flat" alt="tracymuso" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tracymuso" alt="tracymuso" /></a> </p>
 
@@ -33,4 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracymuso&show_icons=true&locale=en&layout=compact" alt="tracymuso" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tracymuso&show_icons=true&locale=en" alt="tracymuso" /></p>
+
+# Check out my pinned projects 👇
 
