@@ -6,13 +6,15 @@
 
 - 👯 I’m looking to collaborate on **anything Ruby on Rails**
 
-- 🤝 I’m looking for help with **finding a job**
+- 🤝 I’m currently available for hire
 
-- 👨‍💻 All of my projects are available at [https://tracy-muso.netlify.app/](https://tracy-muso.netlify.app/)
+- ⛹️‍♀️ I'm interested in Stoicism, Blockchain, and yoga. I play badminton, pingpong and love to swim. 🏊‍♀️
+
+- 👨‍💻 Check out my portfolio! [https://tracy-muso.netlify.app/](https://tracy-muso.netlify.app/)
 
 - 📫 How to reach me **musongoletracy@gmail.com**
 
-- ⚡ Fun fact **I can hold my breath for 2 minutes (NOT!)**
+- ⚡ Fun fact **I can hold my breath for 3 minutes (NOT!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
