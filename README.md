@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **musongoletracy@gmail.com**
 
-- ⚡ Fun fact **I can hold my breath for 3 minutes (NOT!)**
+- ⚡ Fun fact **I can hold my breath for 3 minutes (NOT! 😆)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
