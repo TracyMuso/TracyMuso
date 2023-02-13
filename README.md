@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tracymuso" alt="tracymuso" /></a> </p>
 
-- 👯 I’m looking to collaborate on **anything Ruby on Rails**
+- 👯 I’m looking to collaborate on React and Ruby on Rails projects in the fintech, ecommerce and education industries.
 
 - 🤝 I’m currently available for hire
 
