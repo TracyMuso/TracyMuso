@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tracymuso" alt="tracymuso" /></a> </p>
 
-- 👯 I’m looking to collaborate on React and Ruby on Rails projects in the fintech, ecommerce and education industries.
+- 👯 I’m looking to collaborate on React, Nextjs, Nodejs and Ruby on Rails projects.
 
 - 🤝 I’m currently available for hire
 
-- ⛹️‍♀️ I'm interested in Stoicism, Blockchain, and yoga. I play badminton, pingpong and love to swim. 🏊‍♀️
+- ⛹️‍♀️ I'm interested in Kundalini yoga, Blockchain, and fitness. I love to play badminton, pingpong and swim. 🏊‍♀️
 
 - 👨‍💻 Check out my portfolio! [https://tracy-muso.netlify.app/](https://tracy-muso.netlify.app/)
 
