@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tracymuso" alt="tracymuso" /></a> </p>
 
-- 👯 I’m looking to collaborate on React, Nextjs, Nodejs and Ruby on Rails projects.
+- 👯 I’m looking to collaborate on React and Nextjs projects.
 
 - 🤝 I’m currently available for hire
 
@@ -12,9 +12,10 @@
 
 - 👨‍💻 Check out my portfolio! [https://tracy-muso.netlify.app/](https://tracy-muso.netlify.app/)
 
+- 📘 I am currently learning graphQL
+
 - 📫 How to reach me **musongoletracy@gmail.com**
 
-- ⚡ Fun fact **I can hold my breath for 3 minutes (NOT! 😆)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
